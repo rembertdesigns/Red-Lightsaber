@@ -127,3 +127,20 @@ body{
 .lightsaber .blade-height{
     height: 40em;
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #fff;
+    text-align: center;
+  }
+  .footer a {
+    text-decoration: none;
+    color: red;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+    color: #000
+  }
